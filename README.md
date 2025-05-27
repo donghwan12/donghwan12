@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm DongHwan입니다!</h1>
-<h3 align="center">Let's do our best in the worst situation.</h3>
+<h1 align="left">Hi 👋, I'm DongHwan입니다!</h1>
+<h3 align="left">Let's do our best in the worst situation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=donghwan12&label=Profile%20views&color=0e75b6&style=flat" alt="donghwan12" /> </p>
 
